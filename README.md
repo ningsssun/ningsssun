@@ -3,7 +3,7 @@
 
 - 📝 I’m currently studying in Master of Information System at Stockholm University
 
-- :tennis: I play tennis
+- :tennis: I love to play tennis
 
 - 📫 How to reach me **ning.sssun@gmail.com**
 
