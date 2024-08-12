@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ning.sssun@gmail.com**
 
-- 🧚‍♀️ My Portfolio: **https://main--dynamic-dragon-e5fd32.netlify.app**
+- 🧚‍♀️ My Portfolio: **https://ningportfolio.com**
 
 <p align="left">
 </p>
