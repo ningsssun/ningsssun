@@ -5,9 +5,9 @@
 
 - :tennis: I love to play tennis :)
 
-- 📫 How to reach me **ning.sssun@gmail.com**
+-   🧚‍♀️ My Portfolio: **https://ningportfolio.com**
 
-- 🧚‍♀️ My Portfolio: **https://ningportfolio.com**
+- 📫 How to reach me **ning.sssun@gmail.com**
 
 <p align="left">
 </p>
