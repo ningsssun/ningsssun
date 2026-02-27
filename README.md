@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ning</h1>
-<h3 align="center">A passionate full-stack developer, looking for a job</h3>
+<h3 align="center">A passionate software developer, looking for chances</h3>
 
-- 📝 I’m currently studying in Master of Information System at Computer and System Science Department, Stockholm University
+- 📝 I’m currently working in Ericsson AB, Stockholm
 
 - :tennis: I love to play tennis :)
 
